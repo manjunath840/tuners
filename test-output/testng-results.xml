@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[manju]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="65" started-at="2019-07-02T05:39:30Z" finished-at="2019-07-02T05:39:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="65" started-at="2019-07-02T05:39:30Z" finished-at="2019-07-02T05:39:30Z">
+      <class name="test.DemoQ">
+        <test-method status="PASS" signature="createUser()[pri:0, instance:test.DemoQ@5e5792a0]" name="createUser" duration-ms="17" started-at="2019-07-02T05:39:30Z" finished-at="2019-07-02T05:39:30Z">
+          <reporter-output>
+            <line>
+              <![CDATA[manju]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+      </class> <!-- test.DemoQ -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
